@@ -18,9 +18,9 @@ I am currently seeking a **summer 2026 research visit** to a Computer Vision or 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**cnn-vs-classical-benchmark**](https://github.com/Usmana74/cnn-vs-classical-benchmark) | Empirical study: HOG/SIFT vs CNN across Fashion-MNIST & CIFAR-10. Distribution shift finding. IEEE-format report. | PyTorch · scikit-learn · OpenCV |
+| [**yolo-architecture-benchmark**](https://github.com/Usmana74/yolo-architecture-benchmark) | Speed–accuracy–deployability trilemma: YOLOv7 vs YOLOv8n vs YOLOv9c on COCO-2017. Anchor-based vs anchor-free analysis. | PyTorch · Ultralytics · FiftyOne |
 | [**smart-detection**](https://smart-detection.vercel.app) | Production multi-modal ViT pipeline: general classification, emotion recognition, chest X-ray pathology detection | React · FastAPI · Supabase · HuggingFace |
 | [**dataaudit**](https://pypi.org/project/dataaudit/) | PyPI-published Python library: full ML dataset audit in a single function call | Python · PyPI |
-| **yolo-benchmark** *(coming soon)* | Speed–accuracy–deployability trilemma: YOLOv7 vs YOLOv8n vs YOLOv9c on COCO-2017 | PyTorch · Ultralytics |
 
 ---
 
@@ -28,7 +28,7 @@ I am currently seeking a **summer 2026 research visit** to a Computer Vision or 
 
 ```
 ML/DL       PyTorch · TensorFlow/Keras · scikit-learn · Hugging Face Transformers
-CV          OpenCV · HOG · SIFT · BoVW · CNN · ViT · Transfer Learning
+CV          OpenCV · HOG · SIFT · BoVW · CNN · ViT · YOLO · Transfer Learning
 Languages   Python · JavaScript · SQL
 Tools       FastAPI · Supabase · Vercel · Google Colab · PyPI · Git
 ```
